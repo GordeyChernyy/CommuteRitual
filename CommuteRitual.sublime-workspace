@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"osc",
+				"osc_manager"
+			],
+			[
+				"ad",
+				"add_state"
+			],
+			[
+				"di",
+				"display_manager"
+			],
+			[
+				"fin",
+				"finishRotation	bool"
+			],
+			[
+				"Ro",
+				"RotateAround	RotateAround"
+			],
+			[
+				"s",
+				"startXPos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"lintet",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"om",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gordey/Documents/Unity/CommuteRitual"
+	],
+	"file_history":
+	[
+		"/Users/gordey/Library/Application Support/Sublime Text 3/Packages/Clang-Complete/cc.sublime-settings",
+		"/Users/gordey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/gordey/Library/Application Support/Sublime Text 3/Packages/User/print.sublime-snippet",
+		"/Users/gordey/of_v0.9.0_osx_release/apps/myApps/mirror_mini/src/ofApp.h",
+		"/Users/gordey/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/gordey/of_v0.9.0_osx_release/apps/myApps/mirror_mini/src/Manager.h",
+		"/Users/gordey/Desktop/clangTest/hello.c",
+		"/Users/gordey/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/gordey/of_v0.9.0_osx_release/apps/myApps/mirror_mini/mirror_mini.sublime-project",
+		"/usr/local/lib/of_v0.9.0_osx_release/apps/myApps/mirror_mini/src/ofApp.h",
+		"/usr/local/lib/of_v0.9.0_osx_release/apps/myApps/mirror_mini/mirror_mini.sublime-project",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/RotateAround.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/R_Puzzle.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/CombinationChecker.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/R_SlotManager.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/R_PuzzleSlot.cs",
+		"/Users/gordey/Documents/Unity/OSCtest/Assets/OSCManage.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/RadialCloner.cs",
+		"/Users/gordey/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/22E98C22-C908-47EC-B7B1-D7E17F272322/OSC-module_radical_DEF.pd",
+		"/Users/gordey/Documents/Unity/OSCtest/Assets/UnityOSC/src/OSCHandler.cs",
+		"/Users/gordey/Documents/Unity/tests/touchosc_integration/Assets/oscControl.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/PuzzleDrag.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/PuzzleManager.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/PuzzleSlot.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/DebugDissapear.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Prefabs/Level1-1/ReactorMan/CombinationChecker.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Prefabs/Level1-1/ReactorMan/R_Puzzle.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Prefabs/Level1-1/ReactorMan/Scaler.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Prefabs/Level1-1/ReactorMan/RadialCloner.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Prefabs/Level1-1/ReactorMan/R_SlotManager.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/AdventureCreator/Scripts/Menu/Menu classes/Menu.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Prefabs/Level1-1/ReactorMan/RotateAround.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/BoxPosition.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Assets/Scripts/Drag.cs",
+		"/Users/gordey/Documents/Unity/Philosopharium/Philosopharium.sublime-project",
+		"/Users/gordey/Documents/Unity/Philosopharium/Test",
+		"/Users/gordey/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/gordey/Documents/Unity/Philosopharium/Assets/AdventureCreator/Scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-I",
+			"-I../../..",
+			",",
+			"'",
+			"DreamBrush",
+			"features",
+			"xthsense",
+			"speed",
+			"angle",
+			"pos",
+			"Pos",
+			"pos",
+			"radius",
+			"centerPos",
+			"angle",
+			"Time.timeScale",
+			"pauseWhenEnabled",
+			"pause game",
+			"speed",
+			"radius",
+			"speed",
+			"Time.",
+			"Time",
+			"6",
+			"startXPos",
+			"ScreenToWorldPoint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.cc":
+	{
+		"height": 201.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "CommuteRitual.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dra",
+				"Assets/Scripts/Drag.cs"
+			],
+			[
+				"drag",
+				"Assets/Scripts/Drag.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

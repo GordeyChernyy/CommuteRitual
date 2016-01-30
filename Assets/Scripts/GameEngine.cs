@@ -6,6 +6,11 @@ public class GameEngine : MonoBehaviour {
 	public delegate void Handler();
 	public event Handler funcOnTouchBegin;
 	public event Handler funcOnTouchEnd;
+	public event Handler funcOnButtonBegin;
+	public event Handler funcOnButtonEnd;
+
+	public bool isTouch = false;
+	public bool isButton = false;
 
 	void Awake () {
 		Instance = this;
@@ -18,6 +23,16 @@ public class GameEngine : MonoBehaviour {
 	public void OnTouchEnd(){
 		if(funcOnTouchEnd != null){
 			funcOnTouchEnd();
+		}
+	}
+	public void OnButtonBegin(){
+		if(funcOnButtonBegin != null){
+			funcOnButtonBegin();
+		}
+	}
+	public void OnButtonEnd(){
+		if(funcOnButtonEnd != null){
+			funcOnButtonEnd();
 		}
 	}
 }
