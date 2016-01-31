@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c65ec1e2ae5e14f098c2b8e8b262ae9f
+timeCreated: 1454260403
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\r\n<!-- Generator: Adobe
+    Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<!DOCTYPE
+    svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\r\n<svg
+    version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    x=\"0px\" y=\"0px\"\r\n\t width=\"78.719px\" height=\"73.998px\" viewBox=\"0 0
+    78.719 73.998\" style=\"enable-background:new 0 0 78.719 73.998;\"\r\n\t xml:space=\"preserve\">\r\n<g
+    id=\"EyesBurn\">\r\n\t\r\n\t\t<radialGradient id=\"SVGID_1_\" cx=\"38.5693\" cy=\"32.9043\"
+    r=\"38.0086\" gradientTransform=\"matrix(1.0493 0 0 0.961 -1.1104 5.3768)\" gradientUnits=\"userSpaceOnUse\">\r\n\t\t<stop
+    \ offset=\"0\" style=\"stop-color:#FF1D25;stop-opacity:0.6\"/>\r\n\t\t<stop  offset=\"0.973\"
+    style=\"stop-color:#FF1D25;stop-opacity:0.0162\"/>\r\n\t\t<stop  offset=\"1\"
+    style=\"stop-color:#FF1D25;stop-opacity:0\"/>\r\n\t</radialGradient>\r\n\t<ellipse
+    style=\"fill:url(#SVGID_1_);\" cx=\"39.359\" cy=\"36.999\" rx=\"39.359\" ry=\"36.999\"/>\r\n</g>\r\n<g
+    id=\"Layer_1\">\r\n</g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 
