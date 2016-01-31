@@ -11,7 +11,7 @@ public class GameEngine : MonoBehaviour {
 
 	public bool isTouch = false;
 	public bool isButton = false;
-
+	public bool isMatch = false;
 	void Awake () {
 		Instance = this;
 	}
