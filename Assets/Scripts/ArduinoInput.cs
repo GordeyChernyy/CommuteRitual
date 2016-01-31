@@ -13,11 +13,11 @@ public class ArduinoInput : MonoBehaviour {
 	bool onceTouch2 = true;
 	bool onceButton = true;
 	bool onceButton2 = true;
-
+	public string serialPath;
 	void Awake(){
 		isTouch = false;
 		isButton = false;
-		serialPort = new SerialPort ("/dev/cu.usbmodem14121", 9600);
+		serialPort = new SerialPort (serialPath, 9600);
 	}
 	void Start () {
 		serialPort.Open ();
