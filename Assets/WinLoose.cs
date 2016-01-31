@@ -2,14 +2,10 @@
 using System.Collections;
 
 public class WinLoose : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	public GameObject win;
+	void OnTriggerEnter(Collider collider){
+		print("collide");
+        win.SetActive(true);
+        win.GetComponent<Animator>().Play("YouWinHead");
+    }
 }

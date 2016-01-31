@@ -6,11 +6,10 @@ public class mover : MonoBehaviour {
 	public float move;
 	float xPos;
 	// Use this for initialization
-	void Start () {
-	
+	void Start(){
+		GameEngine.Instance.funcOnButtonBegin += OnResetGame;
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		// print("match = "+ GameEngine.Instance.isMatch);
 		if(GameEngine.Instance.isMatch){
@@ -19,4 +18,7 @@ public class mover : MonoBehaviour {
 		xPos -= force;
 		transform.localPosition = new Vector3(xPos, 0, 0);
 	}
+	 public void OnResetGame(){
+	 	xPos = 0;
+    }
 }

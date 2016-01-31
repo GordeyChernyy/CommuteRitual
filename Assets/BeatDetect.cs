@@ -23,8 +23,8 @@ public class BeatDetect : MonoBehaviour {
 
 	bool once = true;
 	void Awake(){
-		targetBeat = new int[200];
-		usersBeat = new int[200];
+		targetBeat = new int[300];
+		usersBeat = new int[300];
 	}
 
 	void Start () {
@@ -46,7 +46,7 @@ public class BeatDetect : MonoBehaviour {
 		recordedCount = 0;
 		userRecordedCount = 0;
 		matchedCount = 0;
-		buttonLap = 0;
+		if(buttonLap == 1){buttonLap = 0;}
 		isRecord = true;
 		// print("isRecord" + isRecord);
 	}
