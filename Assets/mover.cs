@@ -12,7 +12,7 @@ public class mover : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		print("match = "+ GameEngine.Instance.isMatch);
+		// print("match = "+ GameEngine.Instance.isMatch);
 		if(GameEngine.Instance.isMatch){
 			xPos += move;
 		}

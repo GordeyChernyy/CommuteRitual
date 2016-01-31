@@ -8,6 +8,7 @@ public class GameEngine : MonoBehaviour {
 	public event Handler funcOnTouchEnd;
 	public event Handler funcOnButtonBegin;
 	public event Handler funcOnButtonEnd;
+	public event Handler funcOnBeat;
 
 	public bool isTouch = false;
 	public bool isButton = false;
@@ -33,6 +34,11 @@ public class GameEngine : MonoBehaviour {
 	public void OnButtonEnd(){
 		if(funcOnButtonEnd != null){
 			funcOnButtonEnd();
+		}
+	}
+	public void OnBeat(){
+		if(funcOnBeat != null){
+			funcOnBeat();
 		}
 	}
 }

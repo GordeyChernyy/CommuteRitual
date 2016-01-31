@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 110960619e95c428eb5a14a4710d642e
+timeCreated: 1454262539
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\r\n<!-- Generator: Adobe
+    Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<!DOCTYPE
+    svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\r\n<svg
+    version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    x=\"0px\" y=\"0px\"\r\n\t width=\"1827.376px\" height=\"429.01px\" viewBox=\"0
+    0 1827.376 429.01\" style=\"enable-background:new 0 0 1827.376 429.01;\"\r\n\t
+    xml:space=\"preserve\">\r\n<g id=\"TrainHighlights\">\r\n\t\r\n\t\t<radialGradient
+    id=\"SVGID_1_\" cx=\"-307.9443\" cy=\"248.7832\" r=\"153.0154\" gradientTransform=\"matrix(5.3897
+    0 0 1 2484.4219 0)\" gradientUnits=\"userSpaceOnUse\">\r\n\t\t<stop  offset=\"0\"
+    style=\"stop-color:#FBF3C9\"/>\r\n\t\t<stop  offset=\"1\" style=\"stop-color:#FBF3C9;stop-opacity:0\"/>\r\n\t</radialGradient>\r\n\t<ellipse
+    style=\"opacity:0.6;fill:url(#SVGID_1_);\" cx=\"824.701\" cy=\"248.783\" rx=\"824.701\"
+    ry=\"153.016\"/>\r\n\t<radialGradient id=\"SVGID_2_\" cx=\"1567.8711\" cy=\"369.5049\"
+    r=\"59.5049\" gradientUnits=\"userSpaceOnUse\">\r\n\t\t<stop  offset=\"0\" style=\"stop-color:#FBF3C9\"/>\r\n\t\t<stop
+    \ offset=\"1\" style=\"stop-color:#FBF3C9;stop-opacity:0\"/>\r\n\t</radialGradient>\r\n\t<circle
+    style=\"fill:url(#SVGID_2_);\" cx=\"1567.871\" cy=\"369.505\" r=\"59.505\"/>\r\n\t<radialGradient
+    id=\"SVGID_3_\" cx=\"1674.8711\" cy=\"86.5049\" r=\"86.5049\" gradientUnits=\"userSpaceOnUse\">\r\n\t\t<stop
+    \ offset=\"0.005\" style=\"stop-color:#EA735A;stop-opacity:0.7\"/>\r\n\t\t<stop
+    \ offset=\"1\" style=\"stop-color:#FBF3C9;stop-opacity:0\"/>\r\n\t</radialGradient>\r\n\t<circle
+    style=\"fill:url(#SVGID_3_);\" cx=\"1674.871\" cy=\"86.505\" r=\"86.505\"/>\r\n\t<radialGradient
+    id=\"SVGID_4_\" cx=\"1767.8711\" cy=\"369.5049\" r=\"59.5049\" gradientUnits=\"userSpaceOnUse\">\r\n\t\t<stop
+    \ offset=\"0\" style=\"stop-color:#FBF3C9\"/>\r\n\t\t<stop  offset=\"1\" style=\"stop-color:#FBF3C9;stop-opacity:0\"/>\r\n\t</radialGradient>\r\n\t<circle
+    style=\"fill:url(#SVGID_4_);\" cx=\"1767.871\" cy=\"369.505\" r=\"59.505\"/>\r\n</g>\r\n<g
+    id=\"Layer_1\">\r\n</g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

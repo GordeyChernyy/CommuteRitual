@@ -32,7 +32,7 @@ public class BeatDetect : MonoBehaviour {
 		GameEngine.Instance.funcOnButtonBegin += SetRecord;
 		GameEngine.Instance.funcOnTouchBegin += CreateBeatObj;
 		CalculateMsPerCount();
-		print("msPerCount "+secPerCount);
+		// print("msPerCount "+secPerCount);
 	}
 	public void CalculateMsPerCount(){
 		secPerCount = 60.0f*bpmCount/bpm;
@@ -48,7 +48,7 @@ public class BeatDetect : MonoBehaviour {
 		matchedCount = 0;
 		buttonLap = 0;
 		isRecord = true;
-		print("isRecord" + isRecord);
+		// print("isRecord" + isRecord);
 	}
 	void clearRecordData(){
 		for ( int i = 0; i < targetBeat.Length; i++)
@@ -78,6 +78,7 @@ public class BeatDetect : MonoBehaviour {
    		while(true)
     	{
         	yield return new WaitForSeconds(secPerCount); // wait half a second
+        	GameEngine.Instance.OnBeat();
        		NewBeat();
 			rythm.Play ();
   		 }
@@ -86,9 +87,9 @@ public class BeatDetect : MonoBehaviour {
 		return (value - from1) / (to1 - from1) * (to2 - from2) + from2;
 	}
 	void NewBeat(){
-				print("recordedCount = "+recordedCount);
-		print("userRecordedCount = "+userRecordedCount);
-		print("matchedCount = "+matchedCount);
+		// print("recordedCount = "+recordedCount);
+		// print("userRecordedCount = "+userRecordedCount);
+		// print("matchedCount = "+matchedCount);
 		matchedCount = 0;
 		clearUserData();
 		userRecordedCount = 0;
